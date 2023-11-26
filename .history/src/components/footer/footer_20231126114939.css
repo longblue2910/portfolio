@@ -1,0 +1,20 @@
+.footer {
+  background-color: var(--container-color);
+  border-top: 1px solid var(0, 0, 0, 0.1);
+}
+
+/* ---------------- BREAKPOINTS ------------------ */
+/* For large devices */
+@media screen and (max-width: 992px) {
+}
+
+/* For medium devices */
+@media screen and (max-width: 768px) {
+}
+
+@media screen and (max-width: 576px) {
+}
+
+/* For small devices */
+@media screen and (max-width: 350px) {
+}
